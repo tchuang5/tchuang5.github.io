@@ -13,12 +13,10 @@ layout: page
 <!-- ol>li:before{content:"["counter(list)"]"; counter-increment: list -1} -->
 
 <p class="firstlevel"> Independent Instructor</p>
-<!--
 <p class="secondlevel"> National University of Singapore, Singapore</p>
 <ol style="counter-reset: list 2">
-<li> Python for Economists, <em>Fall 2022</em> </li>
+<li> Python for Economists, <em>Fall 2022 (Scheduled)</em> </li>
 </ol>
--->
 
 <p class="secondlevel"> Texas State University, San Marcos, TX, USA</p>
 <ol style="counter-reset: list 5">
