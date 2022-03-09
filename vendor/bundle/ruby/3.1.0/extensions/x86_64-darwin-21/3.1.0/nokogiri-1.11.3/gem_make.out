@@ -1,0 +1,68 @@
+current directory: /Users/tchuang/Desktop/github/tchuang5.github.io-master/vendor/bundle/ruby/3.1.0/gems/nokogiri-1.11.3/ext/nokogiri
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0 -r ./siteconf20220309-12679-qyskba.rb extconf.rb
+checking for whether -g is accepted as CFLAGS... yes
+checking for whether -Winline is accepted as CFLAGS... yes
+checking for whether -Wmissing-noreturn is accepted as CFLAGS... yes
+checking for whether -Wno-error=unused-command-line-argument-hard-error-in-future is accepted as CFLAGS... no
+Building nokogiri using packaged libraries.
+Static linking is enabled.
+Cross build is disabled.
+checking for iconv.h... yes
+checking for gzdopen() in -lz... yes
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/usr/local/Cellar/ruby/3.1.1/bin/$(RUBY_BASE_NAME)
+	--help
+	--clean
+	--prevent-strip
+	--enable-system-libraries
+	--disable-system-libraries
+	--use-system-libraries
+	--enable-system-libraries
+	--disable-system-libraries
+	--use-system-libraries
+	--enable-static
+	--disable-static
+	--enable-cross-build
+	--disable-cross-build
+	--with-zlib-dir
+	--without-zlib-dir
+	--with-zlib-include
+	--without-zlib-include=${zlib-dir}/include
+	--with-zlib-lib
+	--without-zlib-lib=${zlib-dir}/lib
+	--with-iconv-dir
+	--without-iconv-dir
+	--with-iconv-include
+	--without-iconv-include=${iconv-dir}/include
+	--with-iconv-lib
+	--without-iconv-lib=${iconv-dir}/lib
+<internal:/usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0/rubygems/core_ext/kernel_require.rb>:85:in `require': cannot load such file -- net/ftp (LoadError)
+	from <internal:/usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0/rubygems/core_ext/kernel_require.rb>:85:in `require'
+	from /Users/tchuang/Desktop/github/tchuang5.github.io-master/vendor/bundle/ruby/3.1.0/gems/mini_portile2-2.5.0/lib/mini_portile2/mini_portile.rb:4:in `<top (required)>'
+	from <internal:/usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0/rubygems/core_ext/kernel_require.rb>:85:in `require'
+	from <internal:/usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0/rubygems/core_ext/kernel_require.rb>:85:in `require'
+	from /Users/tchuang/Desktop/github/tchuang5.github.io-master/vendor/bundle/ruby/3.1.0/gems/mini_portile2-2.5.0/lib/mini_portile2.rb:2:in `<top (required)>'
+	from <internal:/usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0/rubygems/core_ext/kernel_require.rb>:85:in `require'
+	from <internal:/usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0/rubygems/core_ext/kernel_require.rb>:85:in `require'
+	from extconf.rb:402:in `process_recipe'
+	from extconf.rb:744:in `<main>'
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/tchuang/Desktop/github/tchuang5.github.io-master/vendor/bundle/ruby/3.1.0/extensions/x86_64-darwin-21/3.1.0/nokogiri-1.11.3/mkmf.log
+
+extconf failed, exit code 1
