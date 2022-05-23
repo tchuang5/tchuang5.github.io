@@ -13,12 +13,12 @@ NULLCMD = :
 #### Start of system configuration section. ####
 
 srcdir = .
-topdir = /usr/local/Cellar/ruby/3.1.1/include/ruby-3.1.0
+topdir = /opt/homebrew/Cellar/ruby/3.1.1/include/ruby-3.1.0
 hdrdir = $(topdir)
-arch_hdrdir = /usr/local/Cellar/ruby/3.1.1/include/ruby-3.1.0/x86_64-darwin21
+arch_hdrdir = /opt/homebrew/Cellar/ruby/3.1.1/include/ruby-3.1.0/arm64-darwin21
 PATH_SEPARATOR = :
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
-prefix = $(DESTDIR)/usr/local/Cellar/ruby/3.1.1
+prefix = $(DESTDIR)/opt/homebrew/Cellar/ruby/3.1.1
 rubysitearchprefix = $(rubylibprefix)/$(sitearch)
 rubyarchprefix = $(rubylibprefix)/$(arch)
 rubylibprefix = $(libdir)/$(RUBY_BASE_NAME)
@@ -31,10 +31,10 @@ sitehdrdir = $(rubyhdrdir)/site_ruby
 rubyhdrdir = $(includedir)/$(RUBY_VERSION_NAME)
 vendorarchdir = $(vendorlibdir)/$(sitearch)
 vendorlibdir = $(vendordir)/$(ruby_version)
-vendordir = $(DESTDIR)/usr/local/lib/ruby/vendor_ruby
-sitearchdir = $(DESTDIR)./.gem.20220309-12738-wvsp6l
-sitelibdir = $(DESTDIR)./.gem.20220309-12738-wvsp6l
-sitedir = $(DESTDIR)/usr/local/lib/ruby/site_ruby
+vendordir = $(DESTDIR)/opt/homebrew/lib/ruby/vendor_ruby
+sitearchdir = $(DESTDIR)./.gem.20220523-54841-waerc2
+sitelibdir = $(DESTDIR)./.gem.20220523-54841-waerc2
+sitedir = $(DESTDIR)/opt/homebrew/lib/ruby/site_ruby
 rubyarchdir = $(rubylibdir)/$(arch)
 rubylibdir = $(rubylibprefix)/$(ruby_version)
 sitearchincludedir = $(includedir)/$(sitearch)
@@ -88,10 +88,10 @@ CCDLFLAGS = -fno-common
 CFLAGS   = $(CCDLFLAGS) $(cflags)  -fno-common -pipe $(ARCH_FLAG)
 INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir) -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/ffi
 DEFS     = 
-CPPFLAGS = -DRUBY_EXTCONF_H=\"$(RUBY_EXTCONF_H)\"  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT $(DEFS) $(cppflags)
+CPPFLAGS = -DRUBY_EXTCONF_H=\"$(RUBY_EXTCONF_H)\"  -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@1.1/include -I/opt/homebrew/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT $(DEFS) $(cppflags)
 CXXFLAGS = $(CCDLFLAGS) -fdeclspec $(ARCH_FLAG)
-ldflags  = -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -pthread
-dldflags = -Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib 
+ldflags  = -L. -fstack-protector-strong -L/opt/homebrew/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib -pthread
+dldflags = -Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib 
 ARCH_FLAG = 
 DLDFLAGS = $(ldflags) $(dldflags) $(ARCH_FLAG)
 LDSHARED = $(CC) -dynamic -bundle
@@ -106,7 +106,7 @@ RUBY_VERSION_NAME = $(RUBY_BASE_NAME)-$(ruby_version)
 RUBYW_BASE_NAME = rubyw
 RUBY_BASE_NAME = ruby
 
-arch = x86_64-darwin21
+arch = arm64-darwin21
 sitearch = $(arch)
 ruby_version = 3.1.0
 ruby = $(bindir)/$(RUBY_BASE_NAME)
@@ -126,8 +126,8 @@ TOUCH = exit >
 #### End of system configuration section. ####
 
 preload = 
-libpath = . $(libdir) /usr/local/opt/libyaml/lib /usr/local/opt/openssl@1.1/lib /usr/local/opt/readline/lib
-LIBPATH =  -L. -L$(libdir) -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib
+libpath = . $(libdir) /opt/homebrew/opt/libyaml/lib /opt/homebrew/opt/openssl@1.1/lib /opt/homebrew/opt/readline/lib
+LIBPATH =  -L. -L$(libdir) -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@1.1/lib -L/opt/homebrew/opt/readline/lib
 DEFFILE = 
 
 CLEANFILES = mkmf.log
