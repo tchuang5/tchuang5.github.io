@@ -17,7 +17,6 @@ layout: page
 <p class="secondlevel"> Econometrics / Data Analytics</p>
 <ol style="counter-reset: list 3">
 	<li> Python Programming for Economists (Masters), <em>National University of Singapore</em> (Fall 2022) </li>
-	<li> Marketing Analysis and Decision Making (Masters), <em>National University of Singapore</em> (Spring 2023, Scheduled) </li>
 </ol> 
 
 <p class="secondlevel"> Macroeconomics / Finance</p>
