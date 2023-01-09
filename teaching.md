@@ -16,7 +16,7 @@ layout: page
 <p class="firstlevel"> Independent Instructor</p>
 <p class="secondlevel"> Econometrics / Data Analytics</p>
 <ol style="counter-reset: list 3">
-	<li> Marketing Analysis and Decision Making (Masters), <em>National University of Singapore</em> (Spring 2023) 
+	<li> Marketing Analysis and Decision Making (Masters), <em>National University of Singapore</em> (Spring 2023) </li>
 	<li> Python Programming for Economists (Masters), <em>National University of Singapore</em> (Fall 2022) </li>
 </ol> 
 
