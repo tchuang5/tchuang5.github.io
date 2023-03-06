@@ -26,6 +26,7 @@ layout: page
 	<li> Intermediate Macroeconomics, <em>Spring 2017 </em> </li>
 </ol>
 
+<!--
 <p class="secondlevel"> Texas A&amp;M University, College Station, TX, USA</p>
 <ol style="counter-reset: list 3">
 	<li> Financial Economics, <em>Fall 2016, Fall 2015</em> </li>
@@ -41,3 +42,4 @@ layout: page
 </ol>
 
 <p style="font-size: 14px"><sup>&#8902;</sup>Responsible for teaching weekly (or daily in summer) review sessions.</p>
+-->

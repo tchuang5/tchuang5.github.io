@@ -13,27 +13,28 @@ layout: page
 <!-- color: #4B0082; -->
 <!-- ol>li:before{content:"["counter(list)"]"; counter-increment: list -1} -->
 
-<p class="firstlevel"> Independent Instructor</p>
-<p class="secondlevel"> Econometrics / Data Analytics</p>
+<!-- <p class="firstlevel"> Independent Instructor</p> -->
+<p class="firstlevel"> Econometrics / Data Analytics</p>
 <ol style="counter-reset: list 3">
 	<li> Marketing Analysis and Decision Making (Masters), <em>National University of Singapore</em> (Spring 2023) </li>
 	<li> Python Programming for Economists (Masters), <em>National University of Singapore</em> (Fall 2022) </li>
 </ol> 
 
-<p class="secondlevel"> Macroeconomics / Finance</p>
+<p class="firstlevel"> Macroeconomics / Finance</p>
 <ol style="counter-reset: list 4">
 	<li> Money and Banking, <em>Texas State University</em> (Spring 2018, Fall 2017) </li>
 	<li> Intermediate Macroeconomics, <em>Texas State University</em> (Spring 2017), <em>Texas A&amp;M University</em> (Spring 2016) </li>
 	<li> Financial Economics, <em>Texas A&amp;M University</em> (Fall 2016, Fall 2015) </li>
 </ol>
 
-<p class="secondlevel"> Principle of Economics</p>
+<p class="firstlevel"> Principle of Economics</p>
 <ol style="counter-reset: list 3">
 	<li> Principle of Macroeconomics, <em>Texas State University</em> (Spring 2018) </li>
 	<li> Principle of Microeconomics, <em>Texas State University</em> (Fall 2017, Spring 2017) </li>
 </ol>
 
 
+<!--
 <p class="firstlevel"> Teaching Assistant<sup>&#8902;</sup></p>
 <p class="secondlevel"> Econometrics / Statistics</p>
 <ol style="counter-reset: list 4">
@@ -43,3 +44,4 @@ layout: page
 </ol> 
 
 <p style="font-size: 14px"><sup>&#8902;</sup>Responsible for teaching weekly (or daily in summer) review sessions.</p>
+-->
