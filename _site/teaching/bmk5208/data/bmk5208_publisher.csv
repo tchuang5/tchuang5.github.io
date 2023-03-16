@@ -1,4 +1,4 @@
-"id","purchase_past6","purchase_next6","email_sent"
+"id","sales_past6","sales_next6","email_sent"
 1,92.4,78.1,FALSE
 2,72.8,58.2,FALSE
 3,53.7,62,TRUE
