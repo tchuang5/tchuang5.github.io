@@ -16,9 +16,9 @@ layout: page
 <!-- <p class="firstlevel"> Independent Instructor</p> -->
 <p class="firstlevel"> Econometrics / Data Analytics</p>
 <ol style="counter-reset: list 3">
-	<li> Python Programming for Economists (Masters), <em>National University of Singapore</em> (Fall 2023, Fall 2022) </li>
-	<li> Marketing Analytics Visualization and Communication (Masters), <em>National University of Singapore</em> (Fall 2023) </li>
-	<li> Marketing Analysis and Decision Making (Masters), <em>National University of Singapore</em> (Spring 2023) </li>
+	<li> Python Programming for Economists (Masters), <em>National University of Singapore</em> (S1 AY2023/24, S1 AY2022/23) </li>
+	<li> Marketing Analytics Visualization and Communication (Masters), <em>National University of Singapore</em> (S1 AY2023/24) </li>
+	<li> Marketing Analysis and Decision Making (Masters), <em>National University of Singapore</em> (S2 AY2022/23) </li>
 </ol> 
 
 <p class="firstlevel"> Macroeconomics / Finance</p>
