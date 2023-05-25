@@ -40,12 +40,12 @@ a {text-decoration: none}
 </p>
 
 <ol style="counter-reset: list 5">
-	<li> Hsu, Yu-Chin, Ta-Cheng Huang, and Haiqing Xu: &ldquo;Testing for unobserved heterogeneous treatment effects with observational data,&rdquo; <em>Econometeric Theory,</em> forthcoming. 
+	<li> Hsu, Yu-Chin, Ta-Cheng Huang, and Haiqing Xu (2023): &ldquo;Testing for unobserved heterogeneous treatment effects with observational data,&rdquo; <em>Econometeric Theory</em>,  39(3), pp. 582-622. 
 		<a href = "https://doi.org/10.1017/S0266466622000147" target="_blank">
 			<img src="../assets/images/doi.svg" style="width:13px; height:13px;"/>
 		</a>
 	</li>
-	<li> Huang, Ta-Cheng, Hongjun Li, and Zheng Li (2020): &ldquo;A modified bootstrap of kernel-based specification test with heavy-tailed data,&rdquo; <em> Economics Letters,</em> 189, 108986.
+	<li> Huang, Ta-Cheng, Hongjun Li, and Zheng Li (2020): &ldquo;A modified bootstrap of kernel-based specification test with heavy-tailed data,&rdquo; <em> Economics Letters</em>, 189, 108986.
 		<a class = "link" href = "https://doi.org/10.1016/j.econlet.2020.108986" target="_blank" >
 			<img src="../assets/images/doi.svg" style="width:13px; height:13px;"/>
 		</a>
