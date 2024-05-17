@@ -14,29 +14,31 @@ layout: page
 <!-- ol>li:before{content:"["counter(list)"]"; counter-increment: list -1} -->
 
 <!-- <p class="firstlevel"> Independent Instructor</p> -->
-<p class="firstlevel"> Econometrics / Data Analytics</p>
+<p class="firstlevel"> Econometrics/Data Analytics</p>
 <!-- <ol style="counter-reset: list 3">-->
 <ul>
-	<li> Python Programming for Economists (Masters), <em>National University of Singapore</em> (S1 AY23/24, S1 AY22/23) </li>
-	<li> Marketing Analytics Visualization and Communication (Masters), <em>National University of Singapore</em> (S1 AY23/24) </li>
-	<li> Marketing Analysis and Decision Making (Masters), <em>National University of Singapore</em> (S2 AY22/23) </li>
+	<li> Economics and Financial Forecasting, S1 AY24/25 at <em>National University of Singapore</em>  </li>
+	<li> Python Programming for Economists (Masters), S1 AY24/25 (+2 semester) at <em>National University of Singapore</em>  </li>
+	<li> Marketing Analytics Visualization and Communication (Masters), S1 AY24/25 (+3 semesters) at <em>National University of Singapore</em>  </li>
+	<li> Marketing Analysis and Decision Making (Masters), S2 AY22/23 at <em>National University of Singapore</em>  </li>
 </ul>
 <!-- </ol> -->
 
-<p class="firstlevel"> Macroeconomics / Finance</p>
+<p class="firstlevel"> Financial Economics/Macroeconomics</p>
 <!-- <ol style="counter-reset: list 4"> -->
 <ul>
-	<li> Money and Banking, <em>Texas State University</em> (Spring 2018, Fall 2017) </li>
-	<li> Intermediate Macroeconomics, <em>Texas State University</em> (Spring 2017), <em>Texas A&amp;M University</em> (Spring 2016) </li>
-	<li> Financial Economics, <em>Texas A&amp;M University</em> (Fall 2016, Fall 2015) </li>
+	<li> Finanical Economics II, S1 AY24/25 at <em>National University of Singapore</em>  </li>
+	<li> Money and Banking, Spring 2018 and Fall 2017 at <em>Texas State University</em>  </li>
+	<li> Intermediate Macroeconomics, Spring 2017 at <em>Texas State University</em> and Spring 2016 at <em>Texas A&amp;M University</em> </li>
+	<li> Financial Economics, Fall 2016 and Fall 2015 at <em>Texas A&amp;M University</em> </li>
 </ul>
 <!-- </ol> -->
 
 <p class="firstlevel"> Principle of Economics</p>
 <!-- <ol style="counter-reset: list 3"> -->
 <ul>
-	<li> Principle of Macroeconomics, <em>Texas State University</em> (Spring 2018) </li>
-	<li> Principle of Microeconomics, <em>Texas State University</em> (Fall 2017, Spring 2017) </li>
+	<li> Principle of Macroeconomics, Sprint 2018 at <em>Texas State University</em>  </li>
+	<li> Principle of Microeconomics, Fall 2017 and Spring 2017 at <em>Texas State University</em>  </li>
 </ul>
 <!-- </ol> -->
 

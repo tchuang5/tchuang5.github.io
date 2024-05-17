@@ -1,0 +1,17 @@
+current directory: /Users/tchuang/Documents/GitHub/tchuang5.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8/ext/unf_ext
+/Users/tchuang/.rubies/ruby-3.1.3/bin/ruby -I /Users/tchuang/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/tchuang/Documents/GitHub/tchuang5.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240517-18653-8eon5x sitelibdir\=./.gem.20240517-18653-8eon5x clean
+
+current directory: /Users/tchuang/Documents/GitHub/tchuang5.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240517-18653-8eon5x sitelibdir\=./.gem.20240517-18653-8eon5x
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lc++'
+
+current directory: /Users/tchuang/Documents/GitHub/tchuang5.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.8/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240517-18653-8eon5x sitelibdir\=./.gem.20240517-18653-8eon5x install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20240517-18653-8eon5x

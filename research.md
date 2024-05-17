@@ -22,11 +22,7 @@ a {text-decoration: none}
 
 <ol style="counter-reset: list 4">
 	<li> &ldquo;Estimating causal effects for cointegrated non-stationary series: An augmented synthetic control approach,&rdquo; with Pablo Crespo. <em>Submitted.</em></li>
-	<li> &ldquo;Heterogeneous impacts of cash transfers on employment and earnings in developing regions,&rdquo; with Fanghua Li and Moshe Buchinsky. <em>Under Revision for Resubmission</em></li>
-	<li> &ldquo;Nonparametric tests for treatment effect heterogeneity under Regression Kink design,&rdquo; with Fanghua Li.</li> 
-    <!--
 	<li> &ldquo;Nonparametric tests for treatment effect heterogeneity under Regression Kink design.&rdquo;</li> 
-	-->
 </ol>
 
 <p class="firstlevel"> Publications
