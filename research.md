@@ -23,7 +23,8 @@ a {text-decoration: none}
 <ol style="counter-reset: list 4">
 	<li> &ldquo;Estimating causal effects for cointegrated non-stationary series: An augmented synthetic control approach,&rdquo; with Pablo Crespo. <em>Submitted.</em></li>
 	<li> &ldquo;Sustainability of Weight Loss Interventions: Efficacy of Cash-Based Versus Subsidy-Based Incentives,&rdquo; with Kegon Tan, Andrea Chung, and Noah Lim. <em>Submitted.</em> </li>
-	<li> &ldquo;Nonparametric tests for treatment effect heterogeneity under Regression Kink design.&rdquo;</li> 
+	<li> &ldquo;Nonparametric tests for treatment effect heterogeneity under Regression Kink design.&rdquo;</li>
+	<li> &ldquo;Nonparametric tests for monotonicity in treatment effect under Regression Kink design.&ldquo; </li> 
 </ol>
 
 <p class="firstlevel"> Publications
