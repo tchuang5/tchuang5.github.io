@@ -17,9 +17,9 @@ layout: page
 <p class="firstlevel"> Econometrics/Data Analytics</p>
 <!-- <ol style="counter-reset: list 3">-->
 <ul>
-	<li> Economic and Financial Forecasting, S1 AY24/25 at <em>National University of Singapore</em>  </li>
-	<li> Python Programming for Economists (Masters), S1 AY24/25 (+2 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Marketing Analytics Visualization and Communication (Masters), S1 AY24/25 (+3 semesters) at <em>National University of Singapore</em>  </li>
+	<li> Economic and Financial Forecasting, <b>S1 AY24/25</b> at <em>National University of Singapore</em>  </li>
+	<li> Python Programming for Economists (Masters), <b>S1 AY24/25</b> (+2 semesters) at <em>National University of Singapore</em>  </li>
+	<li> Marketing Analytics Visualization and Communication (Masters), <b>S1 AY24/25</b> (+3 semesters) at <em>National University of Singapore</em>  </li>
 	<li> Marketing Analysis and Decision Making (Masters), S2 AY22/23 at <em>National University of Singapore</em>  </li>
 </ul>
 <!-- </ol> -->
@@ -27,7 +27,7 @@ layout: page
 <p class="firstlevel"> Financial Economics/Macroeconomics</p>
 <!-- <ol style="counter-reset: list 4"> -->
 <ul>
-	<li> Finanical Economics II, S1 AY24/25 at <em>National University of Singapore</em>  </li>
+	<li> Finanical Economics II, <b>S1 AY24/25</b> at <em>National University of Singapore</em>  </li>
 	<li> Money and Banking, Spring 2018 and Fall 2017 at <em>Texas State University</em>  </li>
 	<li> Intermediate Macroeconomics, Spring 2017 at <em>Texas State University</em> and Spring 2016 at <em>Texas A&amp;M University</em> </li>
 	<li> Financial Economics, Fall 2016 and Fall 2015 at <em>Texas A&amp;M University</em> </li>
