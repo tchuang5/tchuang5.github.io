@@ -9,18 +9,19 @@ layout: page
 	ol>li{list-style: none; list-style-position: inside; padding-left: 10px; text-indent: -1.5em; line-height: 150%}
 	p.firstlevel{font-size: 22px; font-weight: bold}
 	p.secondlevel{font-size: 16px; font-weight: bold;} 
+    sup{font-size: 8pt;}
 </style>
 <!-- color: #4B0082; -->
 <!-- ol>li:before{content:"["counter(list)"]"; counter-increment: list -1} -->
 
 <!-- <p class="firstlevel"> Independent Instructor</p> -->
-<p style="font-size: 14px"><sup>&#10034;</sup>Currently teaching</p>
+<p style="font-size: 12px"><sup>&#10003;</sup>Currently teaching</p>
 <p class="firstlevel"> Econometrics/Data Analytics</p>
 <!-- <ol style="counter-reset: list 3">-->
 <ol>
-	<li> <sup>&#10034;</sup>Economic and Financial Forecasting, S1 AY24/25 at <em>National University of Singapore</em>  </li>
-	<li> <sup>&#10034;</sup>Python Programming for Economists (Masters), S1 AY24/25 (+2 semesters) at <em>National University of Singapore</em>  </li>
-	<li> <sup>&#10034;</sup>Marketing Analytics Visualization and Communication (Masters), S1 AY24/25 (+3 semesters) at <em>National University of Singapore</em>  </li>
+	<li> <sup>&#10003;</sup> Economic and Financial Forecasting, S1 AY24/25 at <em>National University of Singapore</em>  </li>
+	<li> <sup>&#10003;</sup> Python Programming for Economists (Masters), S1 AY24/25 (+2 semesters) at <em>National University of Singapore</em>  </li>
+	<li> <sup>&#10003;</sup> Marketing Analytics Visualization and Communication (Masters), S1 AY24/25 (+3 semesters) at <em>National University of Singapore</em>  </li>
 	<li> Marketing Analysis and Decision Making (Masters), S2 AY22/23 at <em>National University of Singapore</em>  </li>
 </ol>
 <!-- </ol> -->
@@ -28,7 +29,7 @@ layout: page
 <p class="firstlevel"> Financial Economics/Macroeconomics</p>
 <!-- <ol style="counter-reset: list 4"> -->
 <ol>
-	<li> <sup>&#10034;</sup>Finanical Economics II, S1 AY24/25 at <em>National University of Singapore</em>  </li>
+	<li> <sup>&#10003;</sup> Finanical Economics II, S1 AY24/25 at <em>National University of Singapore</em>  </li>
 	<li> Money and Banking, Spring 2018 and Fall 2017 at <em>Texas State University</em>  </li>
 	<li> Intermediate Macroeconomics, Spring 2017 at <em>Texas State University</em> and Spring 2016 at <em>Texas A&amp;M University</em> </li>
 	<li> Financial Economics, Fall 2016 and Fall 2015 at <em>Texas A&amp;M University</em> </li>
