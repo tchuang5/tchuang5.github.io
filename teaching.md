@@ -19,11 +19,11 @@ layout: page
 <p class="firstlevel"> Econometrics/Data Analytics</p>
 <!-- <ol style="counter-reset: list 3">-->
 <ol>
-	<li> <sup>&#10003;</sup>Capstone Project in Data Science and Economics, S2 AY24/25 at <em>National University of Singapore</em>  </li>
-	<li> <sup>&#10003;</sup>Topics in Data Science and the Digital Economy, S2 AY24/25 at <em>National University of Singapore</em>  </li>
-	<li> <sup>&#10003;</sup>Marketing Analytics Visualization and Communication (Masters), S2 AY24/25 (+4 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Economic and Financial Forecasting, S1 AY24/25 at <em>National University of Singapore</em>  </li>
-	<li> Python Programming for Economists (Masters), S1 AY24/25 (+2 semesters) at <em>National University of Singapore</em>  </li>
+	<li> <sup>&#10003;</sup>Capstone Project in Data Science and Economics, S1 AY25/26 (+1 semester) at <em>National University of Singapore</em>  </li>
+	<li> <sup>&#10003;</sup>Economic and Financial Forecasting, S1 AY25/26 (+1 semester) at <em>National University of Singapore</em>  </li>
+	<li> <sup>&#10003;</sup>Python Programming for Economists (Masters), S1 AY25/26 (+1 semesters) at <em>National University of Singapore</em>  </li>
+	<li> <sup>&#10003;</sup>Marketing Analytics Visualization and Communication (Masters), S1 AY25/26 (+6 semesters) at <em>National University of Singapore</em>  </li>
+	<li> Topics in Data Science and the Digital Economy, S2 AY24/25 at <em>National University of Singapore</em>  </li>
 	<li> Marketing Analysis and Decision Making (Masters), S2 AY22/23 at <em>National University of Singapore</em>  </li>
 </ol>
 <!-- </ol> -->
