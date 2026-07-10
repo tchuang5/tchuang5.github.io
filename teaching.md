@@ -11,6 +11,30 @@ layout: page
 	p.secondlevel{font-size: 16px; font-weight: bold;} 
     sup{font-size: 8pt;}
 </style>
+
+In Academic Year 2026/2027, I will teach the following courses:
+
+<strong>Semester 1</strong>
+<ol>
+	<li> EC4305 Applied Econometrics </li>
+	<li> ECA5307 Python Programming for Economists </li>
+	<li> BMS5504 Marketing Data Analytics and Visualization </li>
+</ol>
+
+<strong>Semester 2</strong>
+<ol>
+	<li> ECA5308 Machine Learning for Applied Econometrics </li>
+	<li> ECA5309 Economic and Financial Data Visualization </li>
+</ol>
+
+ I will also serve as the coordinator for
+ <ol>
+	<li> DSE4101 Capstone Project in Data Science and Economics I  and </li>
+	<li> DSE4201 Capstone Project in Data Science and Economics II. </li>
+</ol>
+    
+Previously, I taught the following courses at the intersection of economics, analytics, and data science. Each course title is followed by the most recent semester in which it was offered and the total number of semesters I taught it.
+
 <!-- color: #4B0082; -->
 <!-- ol>li:before{content:"["counter(list)"]"; counter-increment: list -1} -->
 
@@ -19,7 +43,7 @@ layout: page
 <p class="firstlevel"> Econometrics/Data Analytics</p>
 <!-- <ol style="counter-reset: list 3">-->
 <ol>
-	<li> Machine Learning and Applied Economics, S2 AY25/26 at <em>National University of Singapore</em>  </li>
+	<li> Machine Learning for Applied Economics, S2 AY25/26 at <em>National University of Singapore</em>  </li>
 	<li> Topics in Data Science and the Digital Economy, S2 AY25/26 (+1 semester) at <em>National University of Singapore</em>  </li>
 	<li> Capstone Project in Data Science and Economics, S2 AY25/26 (+2 semesters) at <em>National University of Singapore</em>  </li>
 	<li> Marketing Analytics Visualization and Communication (Masters), S2 AY25/26 (+7 semesters) at <em>National University of Singapore</em>  </li>
@@ -30,10 +54,11 @@ layout: page
 </ol>
 <!-- </ol> -->
 
+
 <p class="firstlevel"> Financial Economics/Macroeconomics</p>
 <!-- <ol style="counter-reset: list 4"> -->
 <ol>
-	<li> Finanical Economics II, S1 AY25/26 (+1 semester) at <em>National University of Singapore</em>  </li>
+	<li> Finanical Economics II, S2 AY25/26 (+1 semester) at <em>National University of Singapore</em>  </li>
 	<li> Money and Banking, Spring 2018 and Fall 2017 at <em>Texas State University</em>  </li>
 	<li> Intermediate Macroeconomics, Spring 2017 at <em>Texas State University</em> and Spring 2016 at <em>Texas A&amp;M University</em> </li>
 	<li> Financial Economics, Fall 2016 and Fall 2015 at <em>Texas A&amp;M University</em> </li>
