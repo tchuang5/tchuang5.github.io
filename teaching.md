@@ -10,79 +10,29 @@ layout: page
 	p.firstlevel{font-size: 22px; font-weight: bold}
 	p.secondlevel{font-size: 16px; font-weight: bold;} 
     sup{font-size: 8pt;}
-
-	/* Collapsible course buttons */
-	button.course-toggle{
-		display: inline-block;
-		font-size: 15px;
-		font-weight: 500;
-		text-align: left;
-		background-color: #f2f0f7;
-		color: #4B0082;
-		border: 1px solid #d9d2e9;
-		border-radius: 6px;
-		padding: 7px 12px;
-		margin: 4px 0;
-		cursor: pointer;
-		transition: background-color 0.15s ease;
-	}
-	button.course-toggle:hover{ background-color: #e7e0f2; }
-	button.course-toggle::before{
-		content: "\25B6";
-		font-size: 10px;
-		margin-right: 8px;
-		color: #4B0082;
-	}
-	button.course-toggle.open::before{ content: "\25BC"; }
-	div.course-desc{
-		display: none;
-		font-size: 15px;
-		line-height: 150%;
-		margin: 2px 0 10px 22px;
-		padding: 8px 14px;
-		border-left: 3px solid #d9d2e9;
-		color: #333;
-	}
-	div.course-desc.open{ display: block; }
 </style>
 
-<script type="text/javascript">
-	function toggleCourse(btn){
-		var desc = btn.nextElementSibling;
-		btn.classList.toggle('open');
-		desc.classList.toggle('open');
-	}
-</script>
-
-In Academic Year 2026/2027, I will teach the following courses. Click a course to read its description.
+In Academic Year 2026/2027, I will teach the following courses:
 
 <p class="secondlevel">Semester 1</p>
-
-<button class="course-toggle" onclick="toggleCourse(this)">EC4305 Applied Econometrics</button>
-<div class="course-desc">An advanced undergraduate course on applying econometric methods to real-world data. It covers regression analysis, causal inference, instrumental variables, panel data, and program evaluation, with a strong emphasis on interpreting results and drawing credible conclusions from empirical work.</div>
-
-<button class="course-toggle" onclick="toggleCourse(this)">ECA5307 Python Programming for Economists</button>
-<div class="course-desc">A graduate-level introduction to Python for economic analysis. Students learn programming fundamentals, data wrangling with pandas, numerical computing, and reproducible workflows, building the practical coding skills needed for modern empirical and applied economics research.</div>
-
-<button class="course-toggle" onclick="toggleCourse(this)">BMS5504 Marketing Data Analytics and Visualization</button>
-<div class="course-desc">A graduate course that connects marketing questions to data-driven answers. It covers customer analytics, segmentation, and the design of clear, persuasive visualizations, equipping students to turn raw marketing data into actionable business insights.</div>
+<ol>
+	<li> EC4305 Applied Econometrics </li>
+	<li> ECA5307 Python Programming for Economists </li>
+	<li> BMS5504 Marketing Data Analytics and Visualization </li>
+</ol>
 
 <p class="secondlevel">Semester 2</p>
-
-<button class="course-toggle" onclick="toggleCourse(this)">ECA5308 Machine Learning for Applied Econometrics</button>
-<div class="course-desc">A graduate course bridging machine learning and econometrics. Topics include regularization, tree-based methods, and modern prediction techniques, alongside their use for causal inference and policy evaluation, emphasizing when and how machine learning tools complement traditional econometric analysis.</div>
-
-<button class="course-toggle" onclick="toggleCourse(this)">ECA5309 Economic and Financial Data Visualization</button>
-<div class="course-desc">A graduate course on communicating economic and financial data effectively. Students learn principles of visual design and hands-on tools to build charts, dashboards, and interactive graphics that make complex economic and financial information accessible to diverse audiences.</div>
+<ol>
+	<li> ECA5308 Machine Learning for Applied Econometrics </li>
+	<li> ECA5309 Economic and Financial Data Visualization </li>
+</ol>
 
  I will also serve as the coordinator for
-
-<button class="course-toggle" onclick="toggleCourse(this)">DSE4101 Capstone Project in Data Science and Economics I</button>
-<div class="course-desc">The first part of a two-semester capstone in which students apply data science and economics to a substantial applied project. This stage focuses on problem formulation, literature and data review, and developing a rigorous research and analysis plan.</div>
-
-<button class="course-toggle" onclick="toggleCourse(this)">DSE4201 Capstone Project in Data Science and Economics II</button>
-<div class="course-desc">The concluding part of the capstone sequence, where students execute their project, carry out the analysis, and deliver written and oral presentations of their findings, demonstrating the integration of data science and economic reasoning.</div>
-
+ <ol>
+	<li> DSE4101 Capstone Project in Data Science and Economics I  and </li>
+	<li> DSE4201 Capstone Project in Data Science and Economics II. </li>
+</ol>
+    
 Previously, I taught the following courses at the intersection of economics, analytics, and data science. Each course title is followed by the most recent semester in which it was offered and the total number of semesters I taught it.
 
 <!-- color: #4B0082; -->
