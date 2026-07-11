@@ -23,7 +23,7 @@ In Academic Year 2026/2027, I will teach the following courses:
 
 <p class="secondlevel">Semester 2</p>
 <ol>
-	<li> ECA5308 Machine Learning for Applied Econometrics </li>
+	<li> ECA5308 Machine Learning for Applied Economics </li>
 	<li> ECA5309 Economic and Financial Data Visualization </li>
 </ol>
 
