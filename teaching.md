@@ -12,7 +12,7 @@ layout: page
     sup{font-size: 8pt;}
 
 	/* Course row with a "course description" toggle button (native <details>, no JS) */
-	div.course-row{ line-height: 150%; margin: 6px 0; }
+	div.course-row{ line-height: 120%; margin: 6px 0; }
 	span.course-title{ font-size: 14px; }
 	details.course{ display: inline; }
 	details.course > summary{
