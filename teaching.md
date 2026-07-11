@@ -61,7 +61,7 @@ In Semester 1 of Academic Year 2026/2027, I will teach the following courses.
 <ol> 
 	<li> <details class="course"><summary>EC4305 Applied Econometrics</summary><div class="course-desc">EC4305 introduces modern methods for estimating causal effects in economic and social settings. The course covers randomized experiments, matching, instrumental variables, panel data, fixed effects, difference-in-differences, and regression discontinuity designs. Through lectures, assignments, and a group project, students learn to assess identifying assumptions, analyze data, evaluate empirical research, and communicate findings clearly.</div></details> </li>
 	<li> <details class="course"><summary>ECA5307 Python Programming for Economists</summary><div class="course-desc">This course introduces Python as a practical tool for economic analysis. The course covers programming fundamentals, data structures, control flow, functions, commonly-used packages (e.g., NumPy, pandas, SciPy, Matplotlib, seaborn, and dash), and introductory econometric applications. Through hands-on exercises and a group project, students learn to analyze real-world datasets, write clear code, create effective visualizations, and communicate data-driven findings using Python for substantive economic questions.</div></details> </li>
-	<li> <details class="course"><summary>MS5504 Marketing Data Analytics and Visualization</summary><div class="course-desc">BMS5504 equips students to turn business data into actionable managerial insights. The course covers data preparation, cleaning, exploratory analysis, and business diagnosis using Python, alongside principles of effective visualization and interactive dashboard design in Tableau. Through hands-on exercises and a group project, students learn to connect business questions with analysis, communicate findings clearly, and develop evidence-based recommendations for decision-making and stakeholder communication effectively.</div></details></li>
+	<li> <details class="course"><summary>BMS5504 Marketing Data Analytics and Visualization</summary><div class="course-desc">BMS5504 equips students to turn business data into actionable managerial insights. The course covers data preparation, cleaning, exploratory analysis, and business diagnosis using Python, alongside principles of effective visualization and interactive dashboard design in Tableau. Through hands-on exercises and a group project, students learn to connect business questions with analysis, communicate findings clearly, and develop evidence-based recommendations for decision-making and stakeholder communication effectively.</div></details></li>
 </ol>
 
 
@@ -96,11 +96,11 @@ The courses below reflect my previous teaching across economics, analytics, and 
 <p class="firstlevel">Econometrics/Data Analytics</p>
 <!-- <ol style="counter-reset: list 3">-->
 <ol>
-	<li> Machine Learning for Applied Economics, S2 AY26/27 (2 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Topics in ata Science and the Digital Economy, S1 AY26/27 (3 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Capstone Project in Data Science and Economics, S1 AY26/27 (4 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Economic and Financial Forecasting, S1 AY25/26 (2 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Python Programming for Economists (Masters), S1 AY26/27 (5 semesters) at <em>National University of Singapore</em>  </li>
+	<li> Machine Learning for Applied Economics. S2 AY26/27. 2 semesters at <em>National University of Singapore</em>  </li>
+	<li> Topics in Data Science and the Digital Economy. S1 AY26/27. 3 semesters at <em>National University of Singapore</em>  </li>
+	<li> Capstone Project in Data Science and Economics. S1 AY26/27. 4 semesters at <em>National University of Singapore</em>  </li>
+	<li> Economic and Financial Forecasting. S1 AY25/26. 2 semesters at <em>National University of Singapore</em>  </li>
+	<li> Python Programming for Economists (Masters). S1 AY26/27. 5 semesters at <em>National University of Singapore</em>  </li>
 	
 </ol>
 <!-- </ol> -->
@@ -109,26 +109,26 @@ The courses below reflect my previous teaching across economics, analytics, and 
 <p class="firstlevel"> Financial Economics/Macroeconomics</p>
 <!-- <ol style="counter-reset: list 4"> -->
 <ol>
-	<li> Finanical Economics II, S2 AY25/26 (2 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Money and Banking, Spring 2018 (2 semesters) at <em>Texas State University</em>  </li>
-	<li> Intermediate Macroeconomics, Spring 2017 at <em>Texas State University</em> and Spring 2016 at <em>Texas A&amp;M University</em> </li>
-	<li> Financial Economics, Fall 2016 (2 semesters) at <em>Texas A&amp;M University</em> </li>
+	<li> Finanical Economics II. S2 AY25/26. 2 semesters at <em>National University of Singapore</em>  </li>
+	<li> Money and Banking. Spring 2018. 2 semesters at <em>Texas State University</em>  </li>
+	<li> Intermediate Macroeconomics. Spring 2017 at <em>Texas State University</em> and Spring 2016 at <em>Texas A&amp;M University</em> </li>
+	<li> Financial Economics. Fall 2016. 2 semesters at <em>Texas A&amp;M University</em> </li>
 </ol>
 <!-- </ol> -->
 
 <p class="firstlevel"> Business &amp; Marketing Analytics</p>
 <ol> 
-	<li> Customer Relationship Management (Masters), S2 AY26/27 (2 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Marketing Analytics Visualization and Communication (Masters), ST1 AY25/26 (9 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Marketing Analysis and Decision Making (Masters), S2 AY22/23 at <em>National University of Singapore</em>  </li>
+	<li> Customer Relationship Management (Masters). S2 AY26/27. 2 semesters at <em>National University of Singapore</em>  </li>
+	<li> Marketing Analytics Visualization and Communication (Masters). ST1 AY25/26. 9 semesters at <em>National University of Singapore</em>  </li>
+	<li> Marketing Analysis and Decision Making (Masters). S2 AY22/23. <em>National University of Singapore</em>  </li>
 </ol>
 <!-- </ol> -->
 
 <p class="firstlevel"> Principle of Economics</p>
 <!-- <ol style="counter-reset: list 3"> -->
 <ol>
-	<li> Principle of Macroeconomics, Spring 2018 at <em>Texas State University</em>  </li>
-	<li> Principle of Microeconomics, Fall 2017 (2 semesters) at <em>Texas State University</em>  </li>
+	<li> Principle of Macroeconomics. Spring 2018 at <em>Texas State University</em>  </li>
+	<li> Principle of Microeconomics. Fall 2017. 2 semesters at <em>Texas State University</em>  </li>
 </ol>
 <!-- </ol> -->
 
