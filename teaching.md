@@ -23,8 +23,8 @@ layout: page
 		background-color: transparent;
 		color: #44087D;
 		border: none;
-		padding: 2px 4px;
-		margin-left: 8px;
+		padding: 4px 4px;
+		margin-left: 20px;
 		cursor: pointer;
 		vertical-align: middle;
 	}
