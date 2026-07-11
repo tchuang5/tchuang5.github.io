@@ -85,7 +85,7 @@ Previously, I taught the following courses at the intersection of economics, ana
 	<li> Machine Learning for Applied Economics, S2 AY26/27 (2 semesters) at <em>National University of Singapore</em>  </li>
 	<li> Topics in Data Science and the Digital Economy, S1 AY26/27 (3 semesters) at <em>National University of Singapore</em>  </li>
 	<li> Capstone Project in Data Science and Economics, S1 AY26/27 (4 semesters) at <em>National University of Singapore</em>  </li>
-	<li> Economic and Financial Forecasting, S1 AY25/26 (+1 semester) at <em>National University of Singapore</em>  </li>
+	<li> Economic and Financial Forecasting, S1 AY25/26 (2 semesters) at <em>National University of Singapore</em>  </li>
 	<li> Python Programming for Economists (Masters), S1 AY26/27 (5 semesters) at <em>National University of Singapore</em>  </li>
 	
 </ol>
