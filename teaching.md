@@ -35,7 +35,11 @@ layout: page
 		margin-right: 6px;
 		color: #44087D;
 	}
-	details.course > summary:hover{ text-decoration: underline; }
+	details.course > summary:hover{ 
+		text-decoration: underline; 
+		text-decoration-style: solid;
+		text-decoration-thickness: 1pt;
+	}
 	div.course-desc{
 		font-size: 14px;
 		line-height: 150%;
