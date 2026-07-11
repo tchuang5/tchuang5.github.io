@@ -13,12 +13,12 @@ layout: page
 
 	/* Course row with a "course description" toggle button (native <details>, no JS) */
 	div.course-row{ line-height: 120%; margin: 6px 0; }
-	span.course-title{ font-size: 14px; }
+	span.course-title{ font-size: 15px; }
 	details.course{ display: inline; }
 	details.course > summary{
 		display: inline-block;
 		list-style: none;
-		font-size: 14px;
+		font-size: 15px;
 		font-weight: 500;
 		background-color: transparent;
 		color: #44087D;
@@ -30,8 +30,8 @@ layout: page
 	}
 	details.course > summary::-webkit-details-marker{ display: none; }
 	details.course > summary::before{
-		content: "\261B";
-		font-size: 14px;
+		content: none;
+		font-size: 15px;
 		margin-right: 6px;
 		color: #44087D;
 	}
@@ -41,12 +41,15 @@ layout: page
 		text-decoration-thickness: 1pt;
 	}
 	div.course-desc{
-		font-size: 14px;
+		font-size: 15px;
 		line-height: 150%;
 		margin: 8px 0 0 22px;
 		padding: 8px 14px;
-		border-left: 3px solid #d9d2e9;
+		padding-left: 14px;
+		border-left: 8px solid #d9d2e9;
 		background-color: rgba(68, 8, 125, 0.06);
+		text-align: justify;
+		text-indent: 0 !important;
 		color: #333;
 	}
 </style>
@@ -55,11 +58,12 @@ In Semester 1 of Academic Year 2026/2027, I will teach the following courses.
 
 <!-- <p class="secondlevel">Semester 1</p> -->
 
-<div class="course-row"><span class="course-title">EC4305 Applied Econometrics</span><details class="course"><summary>Course Description</summary><div class="course-desc">EC4305 introduces modern methods for estimating causal effects in economic and social settings. The course covers randomized experiments, matching, instrumental variables, panel data, fixed effects, difference-in-differences, and regression discontinuity designs. Through lectures, assignments, and a group project, students learn to assess identifying assumptions, analyze data, evaluate empirical research, and communicate findings clearly.</div></details></div>
+<ol> 
+	<li> <details class="course"><summary>EC4305 Applied Econometrics</summary><div class="course-desc">EC4305 introduces modern methods for estimating causal effects in economic and social settings. The course covers randomized experiments, matching, instrumental variables, panel data, fixed effects, difference-in-differences, and regression discontinuity designs. Through lectures, assignments, and a group project, students learn to assess identifying assumptions, analyze data, evaluate empirical research, and communicate findings clearly.</div></details> </li>
+	<li> <details class="course"><summary>ECA5307 Python Programming for Economists</summary><div class="course-desc">This course introduces Python as a practical tool for economic analysis. The course covers programming fundamentals, data structures, control flow, functions, commonly-used packages (e.g., NumPy, pandas, SciPy, Matplotlib, seaborn, and dash), and introductory econometric applications. Through hands-on exercises and a group project, students learn to analyze real-world datasets, write clear code, create effective visualizations, and communicate data-driven findings using Python for substantive economic questions.</div></details> </li>
+	<li> <details class="course"><summary>MS5504 Marketing Data Analytics and Visualization</summary><div class="course-desc">BMS5504 equips students to turn business data into actionable managerial insights. The course covers data preparation, cleaning, exploratory analysis, and business diagnosis using Python, alongside principles of effective visualization and interactive dashboard design in Tableau. Through hands-on exercises and a group project, students learn to connect business questions with analysis, communicate findings clearly, and develop evidence-based recommendations for decision-making and stakeholder communication effectively.</div></details></li>
+</ol>
 
-<div class="course-row"><span class="course-title">ECA5307 Python Programming for Economists</span><details class="course"><summary>Course Description</summary><div class="course-desc">This course introduces Python as a practical tool for economic analysis. The course covers programming fundamentals, data structures, control flow, functions, commonly-used packages (e.g., NumPy, pandas, SciPy, Matplotlib, seaborn, and dash), and introductory econometric applications. Through hands-on exercises and a group project, students learn to analyze real-world datasets, write clear code, create effective visualizations, and communicate data-driven findings using Python for substantive economic questions.</div></details></div>
-
-<div class="course-row"><span class="course-title">BMS5504 Marketing Data Analytics and Visualization</span><details class="course"><summary>Course Description</summary><div class="course-desc">BMS5504 equips students to turn business data into actionable managerial insights. The course covers data preparation, cleaning, exploratory analysis, and business diagnosis using Python, alongside principles of effective visualization and interactive dashboard design in Tableau. Through hands-on exercises and a group project, students learn to connect business questions with analysis, communicate findings clearly, and develop evidence-based recommendations for decision-making and stakeholder communication effectively.</div></details></div>
 
 <!--
 <p class="secondlevel">Semester 2</p>
@@ -74,9 +78,11 @@ In Semester 1 of Academic Year 2026/2027, I will teach the following courses.
 
 I will also serve as the coordinator for
 
-<div class="course-row"><span class="course-title">DSE4101 Capstone Project in Data Science and Economics I</span><details class="course"><summary>Course Description</summary><div class="course-desc">DSE4101 enables students to undertake a self-directed research project in FinTech, digital currencies, or the digital economy. Working in teams, students develop research questions, review relevant literature, analyze real-world data, and apply appropriate theoretical and empirical methods. Through proposals, presentations, peer review, and a final report, students strengthen their research, problem-solving, collaboration, critical evaluation, and communication skills in economics and data science.</div></details></div>
+<ol> 
+	<li> <details class="course"><summary>DSE4101 Capstone Project in Data Science and Economics I</summary><div class="course-desc">DSE4101 enables students to undertake a self-directed research project in FinTech, digital currencies, or the digital economy. Working in teams, students develop research questions, review relevant literature, analyze real-world data, and apply appropriate theoretical and empirical methods. Through proposals, presentations, peer review, and a final report, students strengthen their research, problem-solving, collaboration, critical evaluation, and communication skills in economics and data science.</div></details></li>
+	<li> <details class="course"><summary>DSE4201 Capstone Project in Data Science and Economics II</summary><div class="course-desc">DSE4201 is designed for students who wish to complete an individual final-year thesis in data science and economics. The course must be taken concurrently with DSE4101 in the same semester. Interested students should identify a faculty advisor, develop an appropriate research topic, and submit a thesis proposal to the course coordinator (<a class="email" href="mailto:tchuang@nus.edu.sg">tchuang <tt>at</tt> nus <tt>dot</tt> edu <tt>dot</tt> sg</a>) by 15 July for Semester 1 or 15 December for Semester 2.</div></details></li>
 
-<div class="course-row"><span class="course-title">DSE4201 Capstone Project in Data Science and Economics II</span><details class="course"><summary>Course Description</summary><div class="course-desc">DSE4201 is designed for students who wish to complete an individual final-year thesis in data science and economics. The course must be taken concurrently with DSE4101 in the same semester. Interested students should identify a faculty advisor, develop an appropriate research topic, and submit a thesis proposal to the course coordinator (<a class="email" href="mailto:tchuang@nus.edu.sg">tchuang <tt>at</tt> nus <tt>dot</tt> edu <tt>dot</tt> sg</a>) by 15 July for Semester 1 or 15 December for Semester 2.</div></details></div>
+</ol>
 
 <hr>
 
