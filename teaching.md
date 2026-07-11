@@ -30,8 +30,8 @@ layout: page
 	}
 	details.course > summary::-webkit-details-marker{ display: none; }
 	details.course > summary::before{
-		content: "\25B6";
-		font-size: 10px;
+		content: "\261B";
+		font-size: 14px;
 		margin-right: 6px;
 		color: #44087D;
 	}
