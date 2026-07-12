@@ -115,7 +115,7 @@ The courses below reflect my previous teaching across economics, analytics, and 
 </ol>
 <!-- </ol> -->
 
-<p class="firstlevel"> Business &amp; Marketing Analytics</p>
+<p class="firstlevel"> Marketing Analytics</p>
 <ol> 
 	<li> Customer Relationship Management (Masters). S2 AY26/27. 2 semesters at <em>National University of Singapore</em>  </li>
 	<li> Marketing Analytics Visualization and Communication (Masters). ST1 AY25/26. 9 semesters at <em>National University of Singapore</em>  </li>
