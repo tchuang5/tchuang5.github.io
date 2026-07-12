@@ -44,11 +44,10 @@ layout: page
 		font-size: 15px;
 		line-height: 150%;
 		margin: 8px 0 0 22px;
-		padding: 8px 8px;
+		padding: 8px 14px;
 		padding-left: 14px;
 		border-left: 8px solid #d9d2e9;
 		background-color: rgba(68, 8, 125, 0.06);
-		text-align: justify;
 		text-indent: 0 !important;
 		color: #333;
 	}
