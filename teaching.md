@@ -108,7 +108,7 @@ The courses below reflect my previous teaching across economics, analytics, and 
 <p class="firstlevel"> Financial Economics/Macroeconomics</p>
 <!-- <ol style="counter-reset: list 4"> -->
 <ol>
-	<li> Finanical Economics II. S2 AY25/26. 2 semesters at <em>National University of Singapore</em>  </li>
+	<li> Financial Economics II. S2 AY25/26. 2 semesters at <em>National University of Singapore</em>  </li>
 	<li> Money and Banking. Spring 2018. 2 semesters at <em>Texas State University</em>  </li>
 	<li> Intermediate Macroeconomics. Spring 2017 at <em>Texas State University</em> and Spring 2016 at <em>Texas A&amp;M University</em> </li>
 	<li> Financial Economics. Fall 2016. 2 semesters at <em>Texas A&amp;M University</em> </li>
